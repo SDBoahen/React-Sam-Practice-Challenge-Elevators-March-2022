@@ -55,6 +55,7 @@ The `Student` component should display the Student's image, name, bio, and condi
 Example Response:
 
 `json
+
 [
     {
       "id": 1,

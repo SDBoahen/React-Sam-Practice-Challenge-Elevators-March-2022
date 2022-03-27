@@ -95,6 +95,150 @@
       "currentPhase": "Phase 2 - React JS",
       
       "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02LLQWHX6H-5c3f4c228957-512"
+    },
+    {
+      "id":8,
+      "name": "Isabell Ventouris",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02QS8HSRGV-6ace5fd7d419-512"
+    },
+    {
+      "id":9,
+      "name": "Jesse King",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02H2QWQP7X-1b03a5d2c180-512"
+    },
+    {
+      "id":10,
+      "name": "Joey Ha$h<Tag> Parlamenti",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UG308P2M-80a29f30ed09-512"
+    },
+    {
+      "id":11,
+      "name": "Johannes Dashing-Vargas",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02VDLE7DK2-29a602b19bd8-512"
+    },
+    {
+      "id":12,
+      "name": "John Brown",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02QRDGMUS0-a32a071773be-512"
+    },
+    {
+      "id":13,
+      "name": "Langchao Wu",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U031QUZK4KS-8b580705a398-512"
+    },
+    {
+      "id":14,
+      "name": "Michael Miles",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02V2JJLD39-e80ac566b59b-512"
+    },
+    {
+      "id":15,
+      "name": "Owen Peng",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U030379TQCS-6b049b42e665-512"
+    },
+    {
+      "id":16,
+      "name": "Sakinah Sanna Ishaq",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02SUD481L0-58bbb2a5b776-512"
+    },
+    {
+      "id":17,
+      "name": "Scotty Peterson",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02TJ3D1TD1-aef7c8bcaccf-512"
+    },
+    {
+      "id":18,
+      "name": "Tammy Collinse",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02TVFBK5MK-ec5e5428c024-512"
+    },
+    {
+      "id":19,
+      "name": "Uri Nemirovsky",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UH8AUYA2-91cd80567430-512"
     }
   ]
 }
