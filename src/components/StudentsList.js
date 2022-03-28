@@ -1,7 +1,7 @@
 import React from "react";
 import Student from "./Student";
 
-function StudentsContainer() {
+function StudentsList() {
   return (
     <ul className="cards">
       {/* render a list of <Student> components in here */}
@@ -9,4 +9,4 @@ function StudentsContainer() {
   );
 }
 
-export default StudentsContainer;
+export default StudentsList;
