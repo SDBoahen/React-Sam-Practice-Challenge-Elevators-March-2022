@@ -17,7 +17,7 @@
       "name": "Amy Ago",
 
       "floor": 2,
-      "checkedIn": true,
+      "checkedIn": false,
 
       "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
       "currentPhase": "Phase 2 - React JS",
@@ -41,7 +41,7 @@
       "name": "Erick Gonzalez",
 
       "floor": 1,
-      "checkedIn": true,
+      "checkedIn": false,
 
       "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
       "currentPhase": "Phase 2 - React JS",
