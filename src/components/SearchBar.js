@@ -1,9 +1,18 @@
 import React from "react";
 
-function SearchBar() {
+function SearchBar( { updateSearchTerm } ) {
+
+  function changeHandler( synthEvent ){
+
+    updateSearchTerm( synthEvent.target.value )
+
+  }
+
   return (
     <div className="search">
-      {/* Write Your Logic Here */}
+
+      < input onChange={ changeHandler } />
+
     </div>
   );
 }

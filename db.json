@@ -17,7 +17,7 @@
       "name": "Amy Ago",
 
       "floor": 2,
-      "checkedIn": true,
+      "checkedIn": false,
 
       "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
       "currentPhase": "Phase 2 - React JS",
@@ -97,7 +97,7 @@
       "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02LLQWHX6H-5c3f4c228957-512"
     },
     {
-      "id":8,
+      "id":20,
       "name": "Isabell Ventouris",
 
       "floor": 2,
