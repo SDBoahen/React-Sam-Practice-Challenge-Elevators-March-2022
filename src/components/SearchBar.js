@@ -1,11 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
 
-function SearchBar() {
+/*
+
+          <App />
+          stateOfSearchTerm:[]
+          
+          L>
+
+< SeachBar /> < StudentList />
+
+*/
+
+function SearchBar( { searchTerm , updateSearchTerm } ) {
+
+  function handleChange( synthEvent ){
+
+    updateSearchTerm( synthEvent.target.value )
+    // console.log( "synthEvent.target.value: " , synthEvent.target.value )  //
+
+  }
   return (
     <div className="search">
-      {/* Write Your Logic Here */}
+      
+      <input onChange={ handleChange } />
+      
     </div>
   );
 }
-
 export default SearchBar;

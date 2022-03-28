@@ -6,9 +6,8 @@ import elevators from "../assets/cartoon-lift-doors-empty-elevators-office-hallw
 function Header() {
   return (
     <div>
-      <img src={elevators} alt="Captain Planet" id="main-header" />
+      <img src={elevators} alt="Elevators" id="main-header" />
     </div>
   );
 }
-
 export default Header;
